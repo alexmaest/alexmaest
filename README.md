@@ -49,10 +49,10 @@ Here are some ideas to get you started:
  
 <h3 align="center">⚒️ Tools learned ⚒️</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kubernetes,aws,gcp,mysql,redis,postgres,dynamodb,mongodb,heroku&perline=17"><br>
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,mysql,redis,postgres,dynamodb,mongodb,heroku&perline=17"><br>
     <img src="https://skillicons.dev/icons?i=js,ts,java,py,r,rust,c,cs,cpp,go,html,css&perline=15"><br>
     <img src="https://skillicons.dev/icons?i=git,ps,figma,blender,github,gitlab,arch,debian,bash,powershell,ansible,postman,arduino&perline=17"><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,nginx,npm,linux,ubuntu,regex,maven,md,bash,eclipse,qt,discord&perline=17"><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,nginx,npm,linux,ubuntu,regex,maven,md,vscode,eclipse,qt,discord&perline=17"><br>
     <img src="https://skillicons.dev/icons?i=django,spring,react,nodejs,express,nextjs,flask,cypress,jest,jquery" /><br>
 </div>
 <br>
