@@ -32,14 +32,17 @@ Here are some ideas to get you started:
 
 
 <div align="center"> 
-  <a href="mailto:3007201810101@ingenieria.usac.edu.gt">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  <a href="https://x.com/alexmaest1" target="_blank">
+     <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:alexmaest.data@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://instagram.com/alexmaest" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:3007201810101@ingenieria.usac.edu.gt">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
 <br>
